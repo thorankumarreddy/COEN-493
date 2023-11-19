@@ -14,7 +14,7 @@
 	<name>restaurant-finder</name>
 	<description>Full-Stack Restaurant Finder Application</description>
 	<properties>
-		<java.version>19</java.version>
+		<java.version>20</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
