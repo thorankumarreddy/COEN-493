@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1dcc82f6-8706-4693-bad1-0485ed0bb54e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Home.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListPage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Restaurant.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SearchBar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UsersHome.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/axios.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Dashboard/Dashboard.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Login/Login.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Login/Login.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Preferences/Preferences.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/pages/Home.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/pages/ListPage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/pages/Restaurant.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/pages/UsersHome.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/pages/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/useToken.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/Home.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/ListPage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/Restaurant.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/UsersHome.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurants/AddRestaurant.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurants/EditRestaurant.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurants/ViewRestaurant.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/AddUsers.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/EditUsers.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/ViewUser.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2YN5sYsdg2uZ8LaNBNiprGsTXTc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/thoran/COEN-493"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1dcc82f6-8706-4693-bad1-0485ed0bb54e" name="Changes" comment="" />
+      <created>1700353405613</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700353405613</updated>
+    </task>
+    <servers />
+  </component>
+</project>
